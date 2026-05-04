@@ -6,7 +6,7 @@ This is a script to backup a [Teachable](https://docs.teachable.com/) school usi
 > Teachable is not intended to be used as a backup for your content. Be safe and keep a secure copy of all the content that is uploaded to Teachable, including content uploaded by other administrator users associated with your school, such as non-primary owners and authors.
 
 ```sh
-git clone https://github.com/KittyGiraudel/teachable-backup
+git clone https://github.com/FedericoPistono/teachable-backup
 cd teachable-backup
 npm install
 npm start
